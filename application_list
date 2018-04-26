@@ -15,6 +15,7 @@ code --install-extension joelday.docthis
 code --install-extension kokororin.vscode-phpfmt
 code --install-extension mikestead.dotenv
 code --install-extension neilbrayfield.php-docblocker
+code --install-extension octref.vetur
 code --install-extension onecentlin.laravel-blade
 code --install-extension onecentlin.laravel5-snippets
 code --install-extension PKief.material-icon-theme

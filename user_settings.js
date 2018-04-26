@@ -22,6 +22,10 @@
         "editor.formatOnSave": true,
         "editor.tabSize": 4,
     },
+    "[vue]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 4,
+    },
     // Global config
     "blade.format.enable": true,
     "beautify.language": {
@@ -40,9 +44,10 @@
             "scss"
         ],
         "html": [
+            "blade",
             "htm",
             "html",
-            "blade"
+            "vue"
         ]
     },
     "editor.cursorBlinking": "phase",

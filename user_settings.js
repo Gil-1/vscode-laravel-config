@@ -12,11 +12,11 @@
         "editor.tabSize": 2,
     },
     "[html]": {
-        "editor.tabSize": 4,
+        "editor.tabSize": 2,
     },
     "[javascript]": {
         "editor.formatOnSave": true,
-        "editor.tabSize": 4,
+        "editor.tabSize": 2,
     },
     "[php]": {
         "editor.formatOnSave": true,
@@ -24,7 +24,7 @@
     },
     "[vue]": {
         "editor.formatOnSave": true,
-        "editor.tabSize": 4,
+        "editor.tabSize": 2,
     },
     // Global config
     "blade.format.enable": true,
@@ -58,6 +58,7 @@
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "jshint.options": {
+        "asi" : true,
         "esversion": 6
     },
     "phpfmt.psr2": true,

@@ -20,3 +20,4 @@ Then copy paste the content of the user settings and set the correct executable 
 
 ## Special Thanks
 Benny (https://stackoverflow.com/users/2243665/benny) for the line to generate the extension list :)
+Evan You for Vuejs config of eslint (https://github.com/vuejs/eslint-plugin-vue)

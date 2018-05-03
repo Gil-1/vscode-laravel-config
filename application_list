@@ -1,7 +1,6 @@
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension cmstead.jsrefactor
 code --install-extension DavidAnson.vscode-markdownlint
-code --install-extension dbaeumer.jshint
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension donjayamanne.githistory
 code --install-extension dzannotti.vscode-babel-coloring
@@ -22,4 +21,14 @@ code --install-extension PKief.material-icon-theme
 code --install-extension robinbentley.sass-indented
 code --install-extension ryannaddy.laravel-artisan
 code --install-extension xabikos.JavaScriptSnippets
-code --install-extension Zignd.html-css-class-completion
+# Install this manually after resttart
+# code --install-extension Zignd.html-css-class-completion
+
+
+# Install eslint in your project if you need Javascript
+# npm install eslint
+# Then initialize it
+# eslint --init
+# and choose : config Standard -> Javascript
+# You can remove the eslintrc.json in the root of your project
+# then with VSCode create the Eslint config file that will be pre made

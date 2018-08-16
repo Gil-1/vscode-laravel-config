@@ -67,4 +67,5 @@
     "phpfmt.psr2": true,
     "workbench.colorTheme": "Material Theme High Contrast",
     "workbench.iconTheme": "material-icon-theme",
+    "window.titleBarStyle": "custom"
 }

@@ -52,6 +52,8 @@
     },
     "editor.cursorBlinking": "phase",
     "editor.lineHeight": 33,
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
     "editor.fontSize": 15,
     "editor.roundedSelection": false,
     "explorer.openEditors.visible": 0,
